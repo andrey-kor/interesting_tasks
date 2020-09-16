@@ -1,0 +1,11 @@
+{
+  "name": "interesting_tasks",
+  "version": "1.0.0",
+  "description": "interesting tasks",
+  "main": "A.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
